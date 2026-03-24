@@ -96,5 +96,6 @@ The whole point of RSA is that factoring is hard.
 But by giving us the **sum (`p + q`)**, they gave us a shortcut.
 
 Instead of brute-force factoring (which could take billions of years), we just solved a simple quadratic equation — something a computer can do in **0.0001 seconds**.
+picoCTF{pl33z_n0_g1v3_c0ngru3nc3_0f_5qu4r35_92fe3557}
 
 ```
