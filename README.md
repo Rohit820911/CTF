@@ -1,7 +1,7 @@
 # CTF
 This repository contains my Capture The Flag (CTF) writeups, including detailed explanations of how I approached and solved different challenges.
 
- I will be consistently documenting and uploading my work here. This includes my PicoCTF challenges as well as writeups from various hackathons I have participated in.
+ This includes my PicoCTF challenges as well as writeups from various hackathons I have participated in.
 
 I primarily compete as a solo player, and I’m proud to share that I achieved a rank of 75 out of 405 in the IIT mandi hakathon (PSYCH) my team name is SIMHIT.
 <img width="1238" height="374" alt="image" src="https://github.com/user-attachments/assets/2154cd6e-9d27-4447-aa3d-4731682bb9a5" />
